@@ -85,6 +85,15 @@ jobs:
 
 ## 내 고양이 만들기
 
+### 털색
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./examples/gallery-dark.svg">
+  <img alt="8가지 털색: orange, black, tabby, gray, white, tuxedo, calico, siamese" src="./examples/gallery-light.svg">
+</picture>
+
+### 꾸미기
+
 <img alt="접힌 귀에 빨간 목걸이를 한 삼색이, 오드아이에 짧은 꼬리의 샴, 턱시도 고양이" src="./examples/custom.svg">
 
 `coats`의 고양이 하나하나는 프리셋, 옵션, 또는 둘 다로 적습니다. 옵션이 프리셋보다 우선해요:

@@ -85,6 +85,15 @@ jobs:
 
 ## Make it your cat
 
+### Coats
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./examples/gallery-dark.svg">
+  <img alt="All 8 coats: orange, black, tabby, gray, white, tuxedo, calico and siamese" src="./examples/gallery-light.svg">
+</picture>
+
+### Customize
+
 <img alt="A calico with folded ears and a red collar, a siamese with odd eyes and a short tail, and a tuxedo cat" src="./examples/custom.svg">
 
 Each cat in `coats` is a preset, options, or both. Options override the preset:

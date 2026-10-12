@@ -2,7 +2,7 @@ name: GitHub README Cat
 description: Pixel-art cats that walk across your GitHub profile README, and move faster the more you contribute.
 author: subin21cc
 branding:
-  icon: github
+  icon: heart
   color: orange
 
 inputs:

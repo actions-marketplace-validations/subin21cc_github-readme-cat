@@ -10,6 +10,10 @@ The more you code, the faster they go.
   <img alt="A pixel cat walking" src="./examples/cat-light.svg">
 </picture>
 
+[![Marketplace](https://img.shields.io/badge/Marketplace-GitHub%20README%20Cat-f4a259?logo=githubactions&logoColor=white)](https://github.com/marketplace/actions/github-readme-cat)
+[![Release](https://img.shields.io/github/v/release/subin21cc/github-readme-cat)](https://github.com/subin21cc/github-readme-cat/releases)
+[![License](https://img.shields.io/github/license/subin21cc/github-readme-cat)](./LICENSE)
+
 English | [한국어](./README.ko.md)
 
 </div>

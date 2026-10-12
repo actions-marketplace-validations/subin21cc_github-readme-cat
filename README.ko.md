@@ -10,6 +10,10 @@
   <img alt="걸어 다니는 픽셀 고양이" src="./examples/cat-light.svg">
 </picture>
 
+[![Marketplace](https://img.shields.io/badge/Marketplace-GitHub%20README%20Cat-f4a259?logo=githubactions&logoColor=white)](https://github.com/marketplace/actions/github-readme-cat)
+[![Release](https://img.shields.io/github/v/release/subin21cc/github-readme-cat)](https://github.com/subin21cc/github-readme-cat/releases)
+[![License](https://img.shields.io/github/license/subin21cc/github-readme-cat)](./LICENSE)
+
 [English](./README.md) | 한국어
 
 </div>
